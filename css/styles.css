@@ -33,6 +33,12 @@ html {
 }
 
 /* Custom Styles */
+table, th, td {
+	margin : 0.5em;
+	padding : 0;
+	border: 1px solid black;
+	width:60%;
+}
 
 main {
 	display: flex;
