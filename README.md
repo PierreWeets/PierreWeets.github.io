@@ -11,8 +11,8 @@ So I try to imitate the thema I found on Internet as these ones.
 
 My GitHub page displays the code and links of simple interfaces about coded exercices.
 
-[My GitHub page](https://pierreweets.github.io/ target="_blank") 
+[My GitHub page](https://pierreweets.github.io/){:target="_blank" rel="noopener"}
 
 ## for info : Custom Domain
 
-If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/ target="_blank").
+If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/){:target="_blank" rel="noopener"}.
