@@ -5,14 +5,14 @@
 I want to show what I can do as web developper in a web page (still in construction).
 
 So I try to imitate the thema I found on Internet as these ones.
-![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg){:target="_blank"}
+![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
 
 ## GitHub Pages
 
 My GitHub page displays the code and links of simple interfaces about coded exercices.
 
-[My GitHub page](https://pierreweets.github.io/){:target="_blank"} 
+[My GitHub page](https://pierreweets.github.io/ target="_blank") 
 
 ## for info : Custom Domain
 
-If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/){:target="_blank"}.
+If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/ target="_blank").
