@@ -9,9 +9,8 @@ So I try to imitate the thema I found on Internet as these ones.
 
 ## GitHub Pages
 
-My GitHub page displays the code and links of simple interfaces about coded exercices.
+[My GitHub page](https://pierreweets.github.io/) displays the code and links of simple interfaces about coded exercices.
 
-[My GitHub page](https://pierreweets.github.io/)
 
 ## for info : Custom Domain
 
